@@ -8,5 +8,5 @@ On the menu:
  - All the possibilities of Tetrinet for Windows V1.13.
  - Still has a few commands Tetrinet manage and stabilize version ... 
 
-License: GNU GPLv2
+License: GNU GPLv2  
 Original Websites: http://sourceforge.net/projects/benettris/ and http://cvincent.pagesperso-orange.fr/logiciels/logiciels.html (in French)
