@@ -11,8 +11,7 @@
 #include <netinet/in.h>
 #include <sys/socket.h>
 #include <errno.h>
-#include <inet.h>
-#include <in.h>
+#include <arpa/inet.h>
 #include <netdb.h>
 
 // posix
