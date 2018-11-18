@@ -8,7 +8,7 @@
 #include <Messenger.h>
 
 class BFont;
-
+class BTextControl;
 // structure des block speciaux
 struct _special_block
 {
