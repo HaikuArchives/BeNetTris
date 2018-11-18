@@ -31,7 +31,7 @@ void CTabView::Select(int32	tab)
 	BRect	size;
 
 	// recuperer les vues des 2 onglets
-	selectedTab = TabAt(Selection());
+	selectedTab = TabAt(0);
 	if(selectedTab==NULL)
 		return;
 	selected = selectedTab->View();
